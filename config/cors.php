@@ -29,6 +29,12 @@ return [
 
     'max_age' => 0,
 
+    'timer_slider' => 20 sec,
+
+    'cron_job' => 0/0/1,
+
+    'home_page' => ['section/*', 'slider/home_page'],
+    
     'supports_credentials' => false,
 
 ];
